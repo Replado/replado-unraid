@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<CommunityApplications>
+  <Profile>Template for Replado, an AI assistant for customer emails. Replado reads your mailbox, sorts each request and writes a reply draft with data from your shop, ERP or calendar. Every reply needs your approval. Without a licence it runs as a trial that never sends anything. Support: https://replado.com</Profile>
+  <Icon>https://replado.com/img/replado-256.png</Icon>
+  <WebPage>https://replado.com</WebPage>
+</CommunityApplications>
