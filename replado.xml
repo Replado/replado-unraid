@@ -11,7 +11,7 @@
   <Overview>KI-Assistent für Kundenmails: Replado liest Ihr Postfach, ordnet jede Anfrage ein und schreibt einen Antwortentwurf mit Daten aus Shop und Warenwirtschaft. Ohne Lizenz läuft die Testversion: alles testbar, gesendet wird nichts. Den Einrichtungscode für das erste Konto zeigt das Protokoll des Containers.</Overview>
   <Category>Productivity: Tools:</Category>
   <WebUI>http://[IP]:[PORT:8000]/</WebUI>
-  <TemplateURL>https://raw.githubusercontent.com/marcelglaeser/replado-unraid/main/replado.xml</TemplateURL>
+  <TemplateURL>https://raw.githubusercontent.com/replado/replado-unraid/main/replado.xml</TemplateURL>
   <Icon>https://replado.com/img/replado-256.png</Icon>
   <ExtraParams>--user 0:0 --init --restart unless-stopped</ExtraParams>
   <Config Name="Weboberfläche" Target="8000" Default="8000" Mode="tcp" Description="Port der Weboberfläche im Büronetz" Type="Port" Display="always" Required="true" Mask="false">8000</Config>
